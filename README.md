@@ -1,2 +1,1 @@
-# nlw-03-discovery-happy
- Em desenvolvimento
+# Full Application was developed on Next Level Week #3 event by @Rocketseat
