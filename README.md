@@ -80,4 +80,4 @@ $ yarn start
 
 ## 📝 Licença
 
-This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for more details.
+This project is under the MIT license. See the file [LICENSE](LICENSE.md) for more details.
